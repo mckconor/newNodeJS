@@ -1,0 +1,22 @@
+{
+  "name": "newnodejs",
+  "version": "1.0.0",
+  "description": "This is a quick test for deploying to heroku",
+  "main": "main.js",
+  "scripts": {
+    "start": "main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.0.0"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "conor-mck",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
